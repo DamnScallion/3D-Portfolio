@@ -2,4 +2,4 @@
 
 ### Javascript + React + TailwindCSS + Vite + ThreeJS
 ##### Working on it 💀...Kinda time-consuming...
-##### Canvas components are on the way
+##### Canvas components are on the way, they shouldn't be hard
