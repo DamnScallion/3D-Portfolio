@@ -1,4 +1,4 @@
 # 🚀3D Developer Portfolio
 
 ### Javascript + React + TailwindCSS + Vite + ThreeJS
-##### Let's get the shit done this week 💀......
+##### Let's get the shit done this week 💀...... Hell yeah
