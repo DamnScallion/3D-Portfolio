@@ -2,4 +2,4 @@
 
 ### Javascript + React + TailwindCSS + Vite + ThreeJS
 ##### Let's get the shit done this week 💀...... Hell yeah......
-##### Alright Leetcode go first. True.
+##### Alright Leetcode go first. True!
