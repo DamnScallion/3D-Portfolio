@@ -2,4 +2,4 @@
 
 ### Javascript + React + TailwindCSS + Vite + ThreeJS
 ##### Let's get the shit done this week 💀...... Hell yeah......
-##### All Good 😎 👍 Too good bruh!
+##### All Good 😎 👍 Too good bruh!!!
