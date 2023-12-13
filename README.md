@@ -2,4 +2,4 @@
 
 ### Javascript + React + TailwindCSS + Vite + ThreeJS
 ##### All Good 😎 👍 Too good bruh!!! Suuuuuka blyat💀 I'm Back mf!
-##### The last component will be done.
+##### The last component will be done in next.
