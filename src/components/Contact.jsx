@@ -74,6 +74,7 @@ const Contact = () => {
             <input
               type='text'
               name='name'
+              autoComplete='name'
               value={form.name}
               onChange={handleChange}
               placeholder={`What's your name?`}
@@ -88,6 +89,7 @@ const Contact = () => {
             <input
               type='email'
               name='email'
+              autoComplete='email'
               value={form.email}
               onChange={handleChange}
               placeholder={`What's your email?`}
@@ -102,6 +104,7 @@ const Contact = () => {
             <textarea
               rows={7}
               name='message'
+              autoComplete='off'
               value={form.message}
               onChange={handleChange}
               placeholder={`What do you want to say?`}
