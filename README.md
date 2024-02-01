@@ -1,4 +1,4 @@
 # 🚀3D Developer Portfolio
 
 ### Javascript + React + TailwindCSS + Vite + ThreeJS
-###### oioioi mate!
+###### oioioi mate! U made it! Congrats 🥳
