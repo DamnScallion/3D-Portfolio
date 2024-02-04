@@ -1,4 +1,4 @@
 # 🚀3D Developer Portfolio
 
 ### Javascript + React + TailwindCSS + Vite + ThreeJS
-###### U made it! Congrats 🥳
+###### Vision Pro just on sale 🥳
