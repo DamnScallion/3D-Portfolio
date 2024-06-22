@@ -1,4 +1,4 @@
 # 🚀3D Developer Portfolio
 
 ### Javascript + React + TailwindCSS + Vite + ThreeJS
-###### Dzien Dobry 😎
+###### Shit DAY 💩
