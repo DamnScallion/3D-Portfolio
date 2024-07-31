@@ -1,4 +1,4 @@
 # 🚀3D Developer Portfolio
 
 ### Javascript + React + TailwindCSS + Vite + ThreeJS
-###### close!
+###### Welcome to Aug bruh! Let's rock it!
