@@ -1,4 +1,4 @@
 # 🚀3D Developer Portfolio
 
 ### Javascript + React + TailwindCSS + Vite + ThreeJS
-###### When you understand it, it belongs to you.
+###### Sometimes it is the people who no one imagines anything of, who do the things that no one can imagine.
