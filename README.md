@@ -1,4 +1,4 @@
 # 🚀3D Developer Portfolio
 
 ### Javascript + React + TailwindCSS + Vite + ThreeJS
-###### Ahhhhhhh
+###### THE BIGGER THE AMBITION THE SLOWER YOU NEED TO GO.
