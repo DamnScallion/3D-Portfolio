@@ -1,4 +1,4 @@
 # 🚀3D Developer Portfolio
 
 ### Javascript + React + TailwindCSS + Vite + ThreeJS
-###### I'm so proud of you.
+###### Do you really want to achieve your goals? Or are you just a talker?
