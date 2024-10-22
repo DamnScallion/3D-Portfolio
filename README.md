@@ -1,4 +1,4 @@
 # 🚀3D Developer Portfolio
 
 ### Javascript + React + TailwindCSS + Vite + ThreeJS
-###### I'm scared. But I do it anyway.
+###### Rebuilding it. Just the way it was. Brick for Brick.
