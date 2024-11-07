@@ -1,4 +1,4 @@
 # 🚀3D Developer Portfolio
 
 ### Javascript + React + TailwindCSS + Vite + ThreeJS
-###### Extreme ways that help me. They help me out late at night.
+###### I would stand in line for this. There's always room in life for this.
