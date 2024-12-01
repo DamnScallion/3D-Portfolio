@@ -1,4 +1,4 @@
 # 🚀3D Developer Portfolio
 
 ### Javascript + React + TailwindCSS + Vite + ThreeJS
-###### Trust the process.
+###### I said LET HIM COOK!
